@@ -1,0 +1,45 @@
+.hiwContainer {
+    background: var(--background, black);
+    padding: 5rem 8rem;
+}
+
+.hiwTitle {
+    color: #FFFFFF;
+    font-family: var(--font-family-work_sans);
+    font-weight: 600;
+    font-size: 38px;
+    font-style: normal;
+    margin: 0;
+}
+
+.hiwDescription {
+    color: #FFFFFF;
+    font-family: var(--font-family-work_sans);
+    font-weight: 400;
+    font-size: 22px;
+    text-align: left;
+    padding: 0.62rem 0 2.5rem 0;
+}
+
+.hiwFlex {
+    display: flex;
+    flex-direction: row;
+    gap: 1.88rem;
+    justify-content: center;
+}
+
+@media (min-width:481px) and (max-width:768px) {
+    .hiwContainer {
+        padding: 2.5rem 4rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .hiwContainer {
+        padding: 2rem 2rem;
+    }
+
+    .hiwFlex {
+        flex-direction: column;
+    }
+}

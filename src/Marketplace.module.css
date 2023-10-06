@@ -1,0 +1,147 @@
+.marketCards{
+  background: black;
+}
+
+
+.marketSearch {
+  margin: 10% auto;
+  width: 90%;
+  font-family: var(--font-family-work_sans);
+  font-weight: 400;
+  color: var(--white);
+  position: relative;
+}
+
+.marketSearch h3 {
+  font-size: 3.1875rem;
+  font-style: normal;
+  font-weight: 600;
+  margin: 0;
+}
+
+.marketSearch p {
+  font-family: Work Sans;
+  font-size: 1.375rem;
+  margin: 2% 0 4% 0;
+}
+
+.marketSearch input {
+  font-size: 1.2rem;
+  width: 90%;
+  padding: 15px;
+  border-radius: 20px;
+  background-color: transparent;
+  outline: none;
+  color: var(--caption-label-text, #858584);
+  border: 1px solid var(--background-secondary, black);
+  background-image: url("../src/images/Icons/MagnifyingGlass.png");
+  background-position: right center;
+  background-repeat: no-repeat;
+  background-size: 24px 24px;
+  background-position-x: 96%;
+}
+
+.marketFilter {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-items: center;
+  align-content: center;
+  height: 4rem;
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-l);
+  width: 85%;
+  margin: 0 auto;
+}
+
+.marketFilter {
+  display: flex;
+  color: var(--caption-label-text, #858584);
+  justify-content: center;
+  height: 65px;
+  align-items: center;
+  width: 85%;
+  gap: 30px;
+
+}
+
+.marketFilterActive{
+  color: var(--white, #fff);
+  border-bottom: 3px solid #555555;
+}
+
+.marketFilter .marketFilterActive span:nth-child(2) {
+  background: var(--background-secondary, #858584);
+}
+
+.marketFilter span:nth-child(1) {
+  font-weight: 600;
+}
+
+.marketFilter span:nth-child(2) {
+  background: var(--background-secondary, black);
+  font-family: var(--font-family-space_mono);
+  border-radius: 20px;
+  padding: 4px 10px;
+}
+
+.marketLine{
+  width: 100%;
+  height: 2px;
+  background: #3a3a3a;
+  margin-bottom: 5px;
+}
+
+
+@media (max-width: 765px){
+  .marketFilter {
+    height: 55px;
+    font-size: 1rem;
+  }
+  .marketFilter span:nth-child(2) {
+
+    padding: 3px 10px;
+  }
+
+  .marketSearch h3 {
+    font-size: 2.375rem;
+
+  }
+
+  .marketSearch p {
+
+    font-size: 1rem;
+
+  }
+  .marketSearch input {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .marketSearch h3 {
+    font-size: 1.75rem;
+    margin-top: 15%;
+  }
+
+  .marketSearch p {
+    font-family: var(--font-family-work_sans);
+    font-size: 1rem;
+    line-height: 140%;
+  }
+
+  .marketSearch input {
+    font-size: 1rem;
+  }
+
+  .marketFilter {
+    height: 55px;
+    font-size: 1rem;
+  }
+
+  .marketFilter span:nth-child(2) {
+    display: none;
+  }
+
+
+
+}

@@ -1,0 +1,31 @@
+.container{
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--background---secondary);
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  height: auto;
+  mix-blend-mode: normal;
+  padding: 80px 0px;
+  position: relative;
+}
+
+.hr {
+  border: 1px solid black;
+}
+
+/* # Phone */
+@media (max-width:480px) {
+  
+}
+
+/* # Tablet */
+@media (min-width:481px) and (max-width:768px) {
+
+}
+
+/* # Desktop */
+@media (min-width:769px) {
+
+}
