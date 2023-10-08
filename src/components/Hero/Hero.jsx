@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
-import css from './Hero.module.css'
+import css from './Hero.module.css';
+import bero from '../../images/heroanimation.gif';
 
 function Hero() {
     return (
@@ -8,7 +9,7 @@ function Hero() {
                 <div className={css.info}>
                     <h1 className={css.h3}>From Real-Life to Digital</h1>
                     <p className={css.text}>Our vision is to empower individuals to purchase tokenized NFTs that symbolize genuine art crafted by talented artists from around the world.</p>
-                    <img className={css.mobile} src='../src/images/heroanimation.gif' />
+                    <img className={css.mobile} src={bero}/>
                     <button class='btn secondary filled btn_mobile'>
                         <img src='../src/images/Icons/RocketLaunch.svg' />
                         <Link to="/create-account">Get Started!</Link>
@@ -28,7 +29,7 @@ function Hero() {
                         </div>
                     </div>
                 </div>
-                <img className={css.web} src='../src/images/heroanimation.gif' />
+                <img className={css.web} src={bero} />
             </section >
         </>
     );
