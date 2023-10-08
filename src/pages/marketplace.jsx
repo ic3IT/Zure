@@ -8,7 +8,6 @@ export default function MarketplaceLink() {
     <>
         <Navbar />
         <Marketplace />
-        <Footer />
     </>
   )
 }

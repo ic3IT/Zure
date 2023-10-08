@@ -57,6 +57,18 @@ nav .menu_item a {
     text-decoration: none;
 }
 
+nav .connect_wallet  {
+    width: 170px;
+    height: 55px;
+    text-align: center;
+    font-family: var(--font-family-work_sans);
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%;
+    text-decoration: none;
+}
+
 nav .burguer {
     display: none;
 }

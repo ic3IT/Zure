@@ -3,6 +3,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import sc from './sc.gif'
 import Logo from './scrolliumlogo.png'
+import { ConnectWallet } from '@thirdweb-dev/react';
 
 function Navbar() {
 
@@ -23,13 +24,7 @@ function Navbar() {
         <div className={nav.menu_item}>
         <Link to="/ranking">Rankings</Link>
         </div>
-        <div className={nav.menu_item}>
-          <Link to ="/connect-wallet">Connect a wallet</Link>
-        </div>
-        <button className='btn secondary filled'>
-          <img src="../src/images/nav_login.svg" className={nav.btn_loginicon} />
-          <Link to="/create-account">Sign Up</Link>
-        </button>
+        <ConnectWallet className={nav.connect_wallet}/>
       </div>
       <div className={nav.burguer}></div>
     </nav>

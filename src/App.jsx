@@ -6,6 +6,7 @@ import MarketplaceLink from './pages/marketplace';
 import Account from './pages/connect';
 import Ranking from './pages/rank';
 import NftPage from './pages/nft';
+import { ThirdwebProvider } from '@thirdweb-dev/react';
 
 export default function App() {
   return (

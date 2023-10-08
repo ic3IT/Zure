@@ -22,8 +22,6 @@ export default function () {
       <Discover />
       <NFTHighlight />
       <HowWorks />
-      <Subscribe />
-      <Footer />
     </div>
   )
 }
