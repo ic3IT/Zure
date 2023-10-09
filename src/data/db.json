@@ -12,7 +12,7 @@
     "Change": 1.41,
     "Sold": 602,
     "Volume": 12.4,
-    "Image": "./src/images/Avatares/Avatar2.png",
+    "Image": "./images/Avatares/Avatar2.png",
     "TotalSales": 34.53
   },
   {
@@ -20,7 +20,7 @@
     "Change": 1.41,
     "Sold": 602,
     "Volume": 12.4,
-    "Image": "./src/images/Avatares/Avatar1.png",
+    "Image": "./images/Avatares/Avatar1.png",
     "TotalSales": 34.53
   },
   {
@@ -28,7 +28,7 @@
     "Change": 1.41,
     "Sold": 602,
     "Volume": 12.4,
-    "Image": "./src/images/Avatares/Avatar2.png",
+    "Image": "./images/Avatares/Avatar2.png",
     "TotalSales": 34.53
   },
   {
@@ -36,7 +36,7 @@
     "Change": 1.41,
     "Sold": 602,
     "Volume": 12.4,
-    "Image": "./src/images/Avatares/Avatar3.png",
+    "Image": "./images/Avatares/Avatar3.png",
     "TotalSales": 34.53
   },
   {
@@ -44,7 +44,7 @@
     "Change": 1.41,
     "Sold": 602,
     "Volume": 12.4,
-    "Image": "./src/images/Avatares/Avatar1.png",
+    "Image": "./images/Avatares/Avatar1.png",
     "TotalSales": 34.53
   },
   {
@@ -52,7 +52,7 @@
     "Change": 1.41,
     "Sold": 602,
     "Volume": 12.4,
-    "Image": "./src/images/Avatares/Avatar2.png",
+    "Image": "./images/Avatares/Avatar2.png",
     "TotalSales": 34.53
   },
   {
@@ -60,7 +60,7 @@
     "Change": 1.41,
     "Sold": 602,
     "Volume": 12.4,
-    "Image": "./src/images/Avatares/Avatar3.png",
+    "Image": "./images/Avatares/Avatar3.png",
     "TotalSales": 34.53
   },
   {
@@ -68,7 +68,7 @@
     "Change": 1.41,
     "Sold": 602,
     "Volume": 12.4,
-    "Image": "./src/images/Avatares/Avatar1.png",
+    "Image": "./images/Avatares/Avatar1.png",
     "TotalSales": 34.53
   },
   {
@@ -76,7 +76,7 @@
     "Change": 1.41,
     "Sold": 602,
     "Volume": 12.4,
-    "Image": "./src/images/Avatares/Avatar2.png",
+    "Image": "./images/Avatares/Avatar2.png",
     "TotalSales": 34.53
   },
   {
@@ -84,7 +84,7 @@
     "Change": 1.41,
     "Sold": 602,
     "Volume": 12.4,
-    "Image": "./src/images/Avatares/Avatar1.png",
+    "Image": "./images/Avatares/Avatar1.png",
     "TotalSales": 34.53
   },
   {
@@ -92,7 +92,7 @@
     "Change": 1.41,
     "Sold": 602,
     "Volume": 12.4,
-    "Image": "./src/images/Avatares/Avatar2.png",
+    "Image": "./images/Avatares/Avatar2.png",
     "TotalSales": 34.53
   },
   {
@@ -100,7 +100,7 @@
     "Change": 1.41,
     "Sold": 602,
     "Volume": 12.4,
-    "Image": "./src/images/Avatares/Avatar1.png",
+    "Image": "./images/Avatares/Avatar1.png",
     "TotalSales": 34.53
   },
   {
@@ -108,7 +108,7 @@
     "Change": 1.41,
     "Sold": 602,
     "Volume": 12.4,
-    "Image": "./src/images/Avatares/Avatar2.png",
+    "Image": "./images/Avatares/Avatar2.png",
     "TotalSales": 34.53
   },
   {
@@ -116,7 +116,7 @@
     "Change": 1.41,
     "Sold": 602,
     "Volume": 12.4,
-    "Image": "./src/images/Avatares/Avatar3.png",
+    "Image": "./images/Avatares/Avatar3.png",
     "TotalSales": 34.53
   },
   {
@@ -124,7 +124,7 @@
     "Change": 1.41,
     "Sold": 602,
     "Volume": 12.4,
-    "Image": "./src/images/Avatares/Avatar1.png",
+    "Image": "./images/Avatares/Avatar1.png",
     "TotalSales": 34.53
   },
   {
@@ -132,7 +132,7 @@
     "Change": 1.41,
     "Sold": 602,
     "Volume": 12.4,
-    "Image": "./src/images/Avatares/Avatar2.png",
+    "Image": "./images/Avatares/Avatar2.png",
     "TotalSales": 34.53
   },
   {
@@ -140,7 +140,7 @@
     "Change": 1.41,
     "Sold": 602,
     "Volume": 12.4,
-    "Image": "./src/images/Avatares/Avatar3.png",
+    "Image": "./images/Avatares/Avatar3.png",
     "TotalSales": 34.53
   },
   {
@@ -148,7 +148,7 @@
     "Change": 1.41,
     "Sold": 602,
     "Volume": 12.4,
-    "Image": "./src/images/Avatares/Avatar1.png",
+    "Image": "./images/Avatares/Avatar1.png",
     "TotalSales": 34.53
   },
   {
@@ -156,7 +156,7 @@
     "Change": 1.41,
     "Sold": 602,
     "Volume": 12.4,
-    "Image": "./src/images/Avatares/Avatar2.png",
+    "Image": "./images/Avatares/Avatar2.png",
     "TotalSales": 34.53
   }
 ]
