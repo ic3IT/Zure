@@ -18,7 +18,6 @@ export default function () {
       <Hero />
       <Trending />
       <Tops />
-      <BrowseCateg />
       <Discover />
       <NFTHighlight />
       <HowWorks />
